@@ -1,4 +1,4 @@
-# vessel-owner-list
+# vessel-owner
 JSON file that contains the following,
 
 1. IMO number (as key)

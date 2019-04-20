@@ -9,4 +9,4 @@ JSON file that contains the following,
 6. Year built
 7. Size
 
-Data was publicly sourced from California State Lands Commission.
+Data was publicly sourced from California State Lands Commission. Last update: early 2019
